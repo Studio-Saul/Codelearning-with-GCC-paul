@@ -1,1 +1,2 @@
-idex.html
+index.html
+The Waggy Hotel by PC
